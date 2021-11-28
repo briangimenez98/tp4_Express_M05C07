@@ -1,0 +1,5 @@
+El usuario ingreso a /
+El usuario ingreso a /second
+El usuario ingreso a /admin?user=Greta
+El usuario ingreso a /admin?user=Vim
+El usuario ingreso a /admin?user=Pablo
